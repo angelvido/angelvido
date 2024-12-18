@@ -7,9 +7,10 @@
 - 🌍 Location: [Madrid/Spain]
 
 📊 **GitHub stats:**
+---
 ![My stats](https://github-readme-stats.vercel.app/api?username=angelvido&show_icons=true&theme=radical)
 
 🌐 **Contact:**
-[LinkedIn]([enlace](https://www.linkedin.com/in/angelvidaldominguez/))
+[LinkedIn]((https://www.linkedin.com/in/angelvidaldominguez/))
 
 ---
