@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hi there, my name is Ángel!
+### 💻 Student of the Bacheloor in Telecommunications Engineering.
 
-<!--
-**angelvido/angelvido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About me:**
+- 🎯 Currently focused on: [Learning about specific field of software engineering such as backend and cloud computing]
+- 🛠️ I work with: **Java**, **Spring**, **Linux**
+- 🌍 Location: [Madrid/Spain]
 
-Here are some ideas to get you started:
+📊 **GitHub stats:**
+![My stats](https://github-readme-stats.vercel.app/api?username=angelvido&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Contact:**
+[LinkedIn]([enlace](https://www.linkedin.com/in/angelvidaldominguez/))
+
+---
