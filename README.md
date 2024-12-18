@@ -17,4 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvido&layout=compact&theme=radical)
 -->
 🌐 **Contact me**:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelvidaldominguez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelvidaldominguez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelvidaldominguez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelvidaldominguez/)
