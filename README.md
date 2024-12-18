@@ -1,16 +1,20 @@
-# 👋 ¡Hi there, my name is Ángel!
-### 💻 Student of the Bacheloor in Telecommunications Engineering.
+# 👋 ¡Hi there, I'm Ángel!
+### 💻 Telecommunications Engineering Student | Aspiring Software Engineer
 
 🌟 **About me:**
-- 🎯 Currently focused on: **Learning about specific field of software engineering such as backend and cloud computing**
-- 🛠️ I've worked with: **Java**, **Spring**, **JavaScript**, **TypeScript**, **React**, **Go**, **Python**, **Linux OS**, **GCP**
-- 🌍 Location: **Madrid/Spain**
+- 🎯 **Currently focused on**: Backend development and cloud computing.
+- 🛠️ **Technologies I've worked with**:
+  - **Programming Languages**: Java, JavaScript, TypeScript, Go, Python.
+  - **Frameworks & Tools**: Spring, React, Docker, Kubernetes.
+  - **Operating Systems & Cloud**: Linux, GCP.
+- 🌍 **Location**: Madrid, Spain.
 
-📊 **Tech stats:**
----
+📊 **GitHub Stats**:
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=angelvido&show_icons=true&theme=radical)
+
+### 🔥 **Languages I Use**:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvido&layout=compact&theme=radical)
 
-🌐 **Contact:**
-[LinkedIn](https://www.linkedin.com/in/angelvidaldominguez/)
-
----
+🌐 **Contact me**:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelvidaldominguez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelvidaldominguez/)
