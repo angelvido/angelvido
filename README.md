@@ -6,9 +6,9 @@
 - 🛠️ I've worked with: **Java**, **Spring**, **JavaScript**, **TypeScript**, **React**, **Go**, **Python**, **Linux OS**, **GCP**
 - 🌍 Location: **Madrid/Spain**
 
-📊 **GitHub stats:**
+📊 **Tech stats:**
 ---
-![My stats](https://github-readme-stats.vercel.app/api?username=angelvido&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelvido&layout=compact&theme=radical)
 
 🌐 **Contact:**
 [LinkedIn](https://www.linkedin.com/in/angelvidaldominguez/)
