@@ -1,12 +1,12 @@
 # 👋 ¡Hi there, I'm Ángel!
-### 💻 Telecommunications Engineering Student | Aspiring Software Engineer
+### 💻 Telecommunications Engineering Student | Software Engineer
 
 🌟 **About me:**
 - 🎯 **Currently focused on**: Backend development and cloud computing.
 - 🛠️ **Technologies I've worked with**:
   - **Programming Languages**: Java, JavaScript, TypeScript, Go, Python.
   - **Frameworks & Tools**: Spring, React, Docker, Kubernetes, SQL.
-  - **Operating Systems & Cloud**: Linux, GCP.
+  - **Operating Systems & Cloud**: Linux, MacOS, GCP.
 - 🌍 **Location**: Madrid, Spain.
 <!--
 📊 **GitHub Stats**:
