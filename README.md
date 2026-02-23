@@ -6,7 +6,7 @@
 - 🛠️ **Technologies I've worked with**:
   - **Programming Languages**: Java, Go, Typescript and Python.
   - **Frameworks & Tools**: Spring, React, Docker, Kubernetes, SQL, NoSQL, Kafka.
-  - **Operating Systems & Cloud**: Windows, Linux, MacOS, GCP, AWS.
+  - **Operating Systems & Cloud**: Windows, Linux, MacOS, GCP, AWS, Datadog, ELK.
 - 🌍 **Location**: Madrid, Spain.
 <!--
 📊 **GitHub Stats**:
