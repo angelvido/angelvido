@@ -1,5 +1,5 @@
 # 👋 ¡Hi there, I'm Ángel!
-### 💻 Telecommunications Engineering Student | Software Engineer
+### 💻 Software Engineer
 
 🌟 **About me:**
 - 🎯 **Currently focused on**: Backend development and cloud computing.
