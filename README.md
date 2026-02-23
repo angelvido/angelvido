@@ -4,8 +4,8 @@
 🌟 **About me:**
 - 🎯 **Currently focused on**: Backend development and cloud computing.
 - 🛠️ **Technologies I've worked with**:
-  - **Programming Languages**: Java, JavaScript, TypeScript, Go, Python.
-  - **Frameworks & Tools**: Spring, React, Docker, Kubernetes, SQL.
+  - **Programming Languages**: Java, Go, Typescript and Python.
+  - **Frameworks & Tools**: Spring, React, Docker, Kubernetes, SQL, NoSQL, Kafka.
   - **Operating Systems & Cloud**: Windows, Linux, MacOS, GCP, AWS.
 - 🌍 **Location**: Madrid, Spain.
 <!--
